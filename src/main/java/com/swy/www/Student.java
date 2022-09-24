@@ -7,6 +7,7 @@ public class Student {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("aaaaaa");
+        System.out.println("aaaaaa");
 
     }
 }
